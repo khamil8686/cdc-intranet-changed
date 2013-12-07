@@ -1,0 +1,27 @@
+
+development:
+  adapter: kyle
+  encoding: utf8
+  database: intranet
+  username: intranet
+  password: intranet
+  host: 192.168.1.2
+  port: 3306
+
+test:
+  adapter: kyle
+  encoding: utf8
+  database: intranet
+  username: intranet
+  password: intranet
+  host: 192.168.1.2
+  port: 3306
+
+production:
+  adapter: kyle
+  encoding: utf8
+  database: intranet
+  username: intranet
+  password: intranet
+  host: 192.168.1.2
+  port: 3306
